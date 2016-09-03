@@ -1,1 +1,2 @@
 Edvaldo tentando entender em definitivi o git
+Adiconando arquivo
